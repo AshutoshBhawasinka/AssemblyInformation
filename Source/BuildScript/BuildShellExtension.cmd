@@ -6,6 +6,7 @@ if errorlevel 1 (
 	exit /b 1
 )
 
+
 cd /d %~dp0
 cd..
 set TEMP_BUILD_LOG=BuildLog.txt
