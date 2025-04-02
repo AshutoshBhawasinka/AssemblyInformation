@@ -1,3 +1,5 @@
+[This tool was initially on CodePlex which microsoft shutdown. This repo is just a dump of the binaries. Hopefully one day I can put the code and clean it up.]
+
 # AssemblyInformation
 Tool to lookup assembly information
 
